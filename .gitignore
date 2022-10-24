@@ -1,7 +1,10 @@
 # 追記
-tmp/
+tmp/*
+!tmp/rabbitandbearstudios.eiyuden-chronicle-hundred-heroes.pledges.json
+
 output/*
 !output/.keep
+
 .vscode/
 .history/
 
