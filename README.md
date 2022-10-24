@@ -1,2 +1,3 @@
-# fetch-kickstarter-pledges
-Fetch Kicstarter Pledges
+# Fetch Kickstarter Pledes
+
+![プレッジリスト](/pledges.png)

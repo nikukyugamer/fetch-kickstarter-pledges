@@ -1,0 +1,43 @@
+name: Kickstarter の プレッジ の情報を取得する
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: ビルド ～ 実行 のテスト
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: yarn
+    - name: $ yarn install
+      run: |
+        yarn install --frozen-lockfile
+    - name: ESLint
+      run: |
+        npx eslint
+    - name: ビルドする
+      run: |
+        yarn build
+    - name: （未実装）CLI の挙動を確認する
+      run: |
+        echo '[実行例] ./ks_pledges.js --version'
+        echo '[実行例] ./ks_pledges.js --help'
+    - name: （未実装）CLI を実行する
+      run: |
+        echo '[実行例] ././ks_pledges.js --creator rabbitandbearstudios --project eiyuden-chronicle-hundred-heroes -o output/ks_pledges_by_github_actions.csv'
+        echo '[実行例] ././ks_pledges.js --creator doublekickstarter --project armed-fantasia-and-penny-blood -o output/ks_pledges_by_github_actions.csv'
+    - name: 生成された CSV ファイルなどをアーカイブする
+      uses: actions/upload-artifact@v3
+      with:
+        name: created-csv-file
+        path: |
+          output
