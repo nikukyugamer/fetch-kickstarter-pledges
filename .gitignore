@@ -1,3 +1,10 @@
+# 追記
+tmp/
+output/*
+!output/.keep
+.vscode/
+.history/
+
 # Logs
 logs
 *.log

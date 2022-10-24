@@ -1,0 +1,42 @@
+name: Kickstarter の プレッジ の情報を取得する
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: ビルド ～ 実行 のテスト
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: yarn
+    - name: $ yarn install
+      run: |
+        yarn install --frozen-lockfile
+    - name: ESLint
+      run: |
+        npx eslint
+    - name: ビルドする
+      run: |
+        yarn build
+    # - name: CLI の挙動を確認する
+    #   run: |
+    #     ./ks_pledges.js --version
+    #     ./ks_pledges.js --help
+    # - name: CLI を実行する
+    #   run: |
+    #     ./ks_pledges.js -b 65317 -p 2 -o output/ks_pledges_by_github_actions.csv
+    # - name: 生成された CSV ファイルなどをアーカイブする
+    #   uses: actions/upload-artifact@v3
+    #   with:
+    #     name: created-csv-file
+    #     path: |
+    #       output
