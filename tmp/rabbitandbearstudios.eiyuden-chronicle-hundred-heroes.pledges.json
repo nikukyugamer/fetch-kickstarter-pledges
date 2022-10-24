@@ -1,0 +1,1942 @@
+[
+  {
+    "rewardId": "7768062",
+    "pledgeMinimumMoney": "¥4,000",
+    "pledgeTitle": "Digital Version",
+    "pledgeLimitText": "",
+    "numberOfBackers": "15,668 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7770924",
+    "pledgeMinimumMoney": "¥6,000",
+    "pledgeTitle": "Physical Version",
+    "pledgeLimitText": "",
+    "numberOfBackers": "10,404 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7838192",
+    "pledgeMinimumMoney": "¥6,000",
+    "pledgeTitle": "Digital and Digital OST",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3,088 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Digital Soundtrack",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7768065",
+    "pledgeMinimumMoney": "¥7,500",
+    "pledgeTitle": "Digital Double Pack",
+    "pledgeLimitText": "",
+    "numberOfBackers": "687 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "2× Digital Version of Eiyuden Chronicle",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7770977",
+    "pledgeMinimumMoney": "¥7,500",
+    "pledgeTitle": "Badge of Honor",
+    "pledgeLimitText": "",
+    "numberOfBackers": "161 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7838196",
+    "pledgeMinimumMoney": "¥7,500",
+    "pledgeTitle": "Digital & Digital Artbook",
+    "pledgeLimitText": "",
+    "numberOfBackers": "459 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Digital Artbook",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7770967",
+    "pledgeMinimumMoney": "¥9,400",
+    "pledgeTitle": "Digital & Physical",
+    "pledgeLimitText": "",
+    "numberOfBackers": "2,675 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771029",
+    "pledgeMinimumMoney": "¥10,000",
+    "pledgeTitle": "Mark of the Bard",
+    "pledgeLimitText": "",
+    "numberOfBackers": "2,534 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7838198",
+    "pledgeMinimumMoney": "¥10,000",
+    "pledgeTitle": "Digital Deluxe",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1,117 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Digital Version of Eiyuden Chronicle",
+      "Digital Soundtrack",
+      "Digital Artbook",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7770929",
+    "pledgeMinimumMoney": "¥11,000",
+    "pledgeTitle": "Physical Double Pack",
+    "pledgeLimitText": "",
+    "numberOfBackers": "507 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "2× Physical Version of Eiyuden Chronicle",
+      "2× Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771033",
+    "pledgeMinimumMoney": "¥15,000",
+    "pledgeTitle": "Order of the Vermilion",
+    "pledgeLimitText": "",
+    "numberOfBackers": "459 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771036",
+    "pledgeMinimumMoney": "¥15,000",
+    "pledgeTitle": "Order of the Harmonious",
+    "pledgeLimitText": "",
+    "numberOfBackers": "624 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Vinyl Soundtrack",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771037",
+    "pledgeMinimumMoney": "¥15,000",
+    "pledgeTitle": "Order of the Archivists",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3,975 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7846605",
+    "pledgeMinimumMoney": "¥22,000",
+    "pledgeTitle": "Harmonious Squire Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "78 backers",
+    "limitedNumberOfBackersText": "Limited (26 left of 104)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Vinyl Soundtrack",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771040",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Trinity of Orders",
+    "pledgeLimitText": "",
+    "numberOfBackers": "731 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7843623",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Vermilion Squire Re-redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "27 backers",
+    "limitedNumberOfBackersText": "Limited (77 left of 104)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7854953",
+    "pledgeMinimumMoney": "¥27,500",
+    "pledgeTitle": "Vermilion Knight Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "32 backers",
+    "limitedNumberOfBackersText": "Limited (73 left of 105)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771064",
+    "pledgeMinimumMoney": "¥37,500",
+    "pledgeTitle": "Vermilion Noble",
+    "pledgeLimitText": "",
+    "numberOfBackers": "30 backers",
+    "limitedNumberOfBackersText": "Limited (70 left of 100)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771066",
+    "pledgeMinimumMoney": "¥37,500",
+    "pledgeTitle": "Harmonious Noble",
+    "pledgeLimitText": "",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "Limited (95 left of 100)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Vinyl Soundtrack",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7848226",
+    "pledgeMinimumMoney": "¥38,000",
+    "pledgeTitle": "Trinity Squire Re-redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "40 backers",
+    "limitedNumberOfBackersText": "Limited (64 left of 104)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7843624",
+    "pledgeMinimumMoney": "¥40,000",
+    "pledgeTitle": "Monument Returns",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "Limited (17 left of 20)",
+    "rewardNameTexts": [
+      "12\" Hand-painted Resin-based Figure",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7867411",
+    "pledgeMinimumMoney": "¥40,000",
+    "pledgeTitle": "Trinity Knight Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "29 backers",
+    "limitedNumberOfBackersText": "Limited (80 left of 109)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7867414",
+    "pledgeMinimumMoney": "¥40,000",
+    "pledgeTitle": "Trinity Knight Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "11 backers",
+    "limitedNumberOfBackersText": "Limited (98 left of 109)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7875858",
+    "pledgeMinimumMoney": "¥41,000",
+    "pledgeTitle": "Archivist Noble Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "Limited (99 left of 109)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771083",
+    "pledgeMinimumMoney": "¥50,000",
+    "pledgeTitle": "Name of the Steadfast",
+    "pledgeLimitText": "",
+    "numberOfBackers": "121 backers",
+    "limitedNumberOfBackersText": "Limited (129 left of 250)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Your name in the artbook",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836427",
+    "pledgeMinimumMoney": "¥50,000",
+    "pledgeTitle": "Silver Monument Re-redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "14 backers",
+    "limitedNumberOfBackersText": "Limited (1 left of 15)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7875990",
+    "pledgeMinimumMoney": "¥50,000",
+    "pledgeTitle": "Piece of History Returns",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (14 left of 15)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7870428",
+    "pledgeMinimumMoney": "¥52,500",
+    "pledgeTitle": "Trinity Noble Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "19 backers",
+    "limitedNumberOfBackersText": "Limited (90 left of 109)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836425",
+    "pledgeMinimumMoney": "¥60,000",
+    "pledgeTitle": "Silver Piece of History Re-redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "8 backers",
+    "limitedNumberOfBackersText": "Limited (7 left of 15)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7882736",
+    "pledgeMinimumMoney": "¥60,000",
+    "pledgeTitle": "Silver Monument Returns",
+    "pledgeLimitText": "",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "Limited (15 left of 15)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835759",
+    "pledgeMinimumMoney": "¥68,700",
+    "pledgeTitle": "Golden Piece of History Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "9 backers",
+    "limitedNumberOfBackersText": "Limited (1 left of 10)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771084",
+    "pledgeMinimumMoney": "¥75,000",
+    "pledgeTitle": "Indelible Hand",
+    "pledgeLimitText": "",
+    "numberOfBackers": "72 backers",
+    "limitedNumberOfBackersText": "Limited (928 left of 1000)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Your name in the artbook",
+      "Team Signed Eiyuden Poster",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7877668",
+    "pledgeMinimumMoney": "¥90,000",
+    "pledgeTitle": "Golden Monument Final",
+    "pledgeLimitText": "",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "Limited (20 left of 20)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7842695",
+    "pledgeMinimumMoney": "¥95,000",
+    "pledgeTitle": "Golden Piece of History Returns",
+    "pledgeLimitText": "",
+    "numberOfBackers": "8 backers",
+    "limitedNumberOfBackersText": "Limited (2 left of 10)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7840388",
+    "pledgeMinimumMoney": "¥115,000",
+    "pledgeTitle": "Enduring Requiem Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "8 backers",
+    "limitedNumberOfBackersText": "Limited (42 left of 50)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a Random Dead Character",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7876681",
+    "pledgeMinimumMoney": "¥165,000",
+    "pledgeTitle": "Food for Thought Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (2 left of 3)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Name an In-Game Food Item",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7855392",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Top Trainer",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "Limited (2 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Name a Rival Beigoma Trainer",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7865682",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Hatch-It Job",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (4 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Name a Rival Eggleg",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7855716",
+    "pledgeMinimumMoney": "¥225,000",
+    "pledgeTitle": "Esteemed Decorator Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "Limited (2 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Create a Town Object",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7865674",
+    "pledgeMinimumMoney": "¥225,000",
+    "pledgeTitle": "Top Trainer Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (4 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Name a Rival Beigoma Trainer",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7876621",
+    "pledgeMinimumMoney": "¥300,000",
+    "pledgeTitle": "A Brush With Infamy",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (4 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Become an In-Game Painted Portrait",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7877671",
+    "pledgeMinimumMoney": "¥400,000",
+    "pledgeTitle": "A Brush With Infamy Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "Limited (3 left of 3)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Become an In-Game Painted Portrait",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771111",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Guildmaster",
+    "pledgeLimitText": "",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "Limited (2 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Every Job Reward Set",
+      "Digital Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883443",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Fishment Story Redux",
+    "pledgeLimitText": "",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "Limited (1 left of 1)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a Rare Human-Faced Fish In-Game",
+      "Human-Faced Fish Plushy",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771126",
+    "pledgeMinimumMoney": "¥750,000",
+    "pledgeTitle": "Revered Guildmaster",
+    "pledgeLimitText": "",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "Limited (4 left of 5)",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Every Job Reward Set",
+      "Replica Shield",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771132",
+    "pledgeMinimumMoney": "¥750,000",
+    "pledgeTitle": "Allraan's Pantheon",
+    "pledgeLimitText": "",
+    "numberOfBackers": "2 backers",
+    "limitedNumberOfBackersText": "Limited (8 left of 10)",
+    "rewardNameTexts": [
+      "Visit the Team",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "All Job Reward Sets",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Team Signed Eiyuden Poster",
+      "Your name in the artbook",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771041",
+    "pledgeMinimumMoney": "¥20,000",
+    "pledgeTitle": "Vermilion Squire",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771042",
+    "pledgeMinimumMoney": "¥20,000",
+    "pledgeTitle": "Harmonious Squire",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Vinyl Soundtrack",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771043",
+    "pledgeMinimumMoney": "¥20,000",
+    "pledgeTitle": "Archivist Squire",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835654",
+    "pledgeMinimumMoney": "¥22,000",
+    "pledgeTitle": "Archivist Squire Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836438",
+    "pledgeMinimumMoney": "¥22,000",
+    "pledgeTitle": "Vermilion Squire Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771059",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Vermilion Knight",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771060",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Harmonious Knight",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Vinyl Soundtrack",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771061",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Archivist Knight",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833800",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Monument",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "12\" Hand-painted Resin-based Figure",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836436",
+    "pledgeMinimumMoney": "¥25,000",
+    "pledgeTitle": "Archivist Squire Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835721",
+    "pledgeMinimumMoney": "¥27,000",
+    "pledgeTitle": "Monument Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "12\" Hand-painted Resin-based Figure",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835732",
+    "pledgeMinimumMoney": "¥27,000",
+    "pledgeTitle": "Monument Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "12\" Hand-painted Resin-based Figure",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836435",
+    "pledgeMinimumMoney": "¥27,500",
+    "pledgeTitle": "Archivist Knight Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771046",
+    "pledgeMinimumMoney": "¥30,000",
+    "pledgeTitle": "Trinity Squire",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7842696",
+    "pledgeMinimumMoney": "¥30,000",
+    "pledgeTitle": "Archivist Squire Returns",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "104 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836434",
+    "pledgeMinimumMoney": "¥32,000",
+    "pledgeTitle": "Monument Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "15 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "12\" Hand-painted Resin-based Figure",
+      "Physical Version of Eiyuden Chronicle",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7848249",
+    "pledgeMinimumMoney": "¥32,000",
+    "pledgeTitle": "Archivist Knight Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "104 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835733",
+    "pledgeMinimumMoney": "¥33,000",
+    "pledgeTitle": "Trinity Squire Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833806",
+    "pledgeMinimumMoney": "¥35,000",
+    "pledgeTitle": "Piece of History",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771062",
+    "pledgeMinimumMoney": "¥37,500",
+    "pledgeTitle": "Trinity Knight",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "2× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771067",
+    "pledgeMinimumMoney": "¥37,500",
+    "pledgeTitle": "Archivist Noble",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "Artbook",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835736",
+    "pledgeMinimumMoney": "¥38,000",
+    "pledgeTitle": "Piece of History Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833801",
+    "pledgeMinimumMoney": "¥40,000",
+    "pledgeTitle": "Silver Monument",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836430",
+    "pledgeMinimumMoney": "¥42,500",
+    "pledgeTitle": "Piece of History Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "15 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835738",
+    "pledgeMinimumMoney": "¥44,000",
+    "pledgeTitle": "Silver Monument Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771070",
+    "pledgeMinimumMoney": "¥47,500",
+    "pledgeTitle": "Trinity Noble",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "3× Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833808",
+    "pledgeMinimumMoney": "¥50,000",
+    "pledgeTitle": "Silver Piece of History",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833802",
+    "pledgeMinimumMoney": "¥52,500",
+    "pledgeTitle": "Golden Monument",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835755",
+    "pledgeMinimumMoney": "¥55,000",
+    "pledgeTitle": "Silver Piece of History Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "2× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835760",
+    "pledgeMinimumMoney": "¥57,700",
+    "pledgeTitle": "Golden Monument Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7833814",
+    "pledgeMinimumMoney": "¥62,500",
+    "pledgeTitle": "Golden Piece of History",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836419",
+    "pledgeMinimumMoney": "¥65,000",
+    "pledgeTitle": "Golden Monument Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "15 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7842694",
+    "pledgeMinimumMoney": "¥75,000",
+    "pledgeTitle": "Golden Monument Returns",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836416",
+    "pledgeMinimumMoney": "¥80,000",
+    "pledgeTitle": "Golden Piece of History Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "15 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Job Reward Set of your choice",
+      "3× 12\" Hand-painted Resin-based Figure",
+      "Beta Access",
+      "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771087",
+    "pledgeMinimumMoney": "¥100,000",
+    "pledgeTitle": "Enduring Requiem",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "100 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a Random Dead Character",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7884606",
+    "pledgeMinimumMoney": "¥149,999",
+    "pledgeTitle": "Murayama's Revenge",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your Dog in the Game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771090",
+    "pledgeMinimumMoney": "¥150,000",
+    "pledgeTitle": "Cat-tribution",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your cat in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771091",
+    "pledgeMinimumMoney": "¥150,000",
+    "pledgeTitle": "Pixel Pet",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your non-cat pet in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7844995",
+    "pledgeMinimumMoney": "¥150,000",
+    "pledgeTitle": "Food for Thought",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Name an In-Game Food Item",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7876616",
+    "pledgeMinimumMoney": "¥150,000",
+    "pledgeTitle": "Dig Your Own Grave",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Your Name on an In-Game Tombstone",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835764",
+    "pledgeMinimumMoney": "¥165,000",
+    "pledgeTitle": "Cat-tribution Meowdux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your cat in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835655",
+    "pledgeMinimumMoney": "¥175,000",
+    "pledgeTitle": "Pixel Pet Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your non-cat pet in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771092",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Fellow Worldbuilder",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Name a location in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836410",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Pixel Pet Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your non-cat pet in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7836413",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Copy of Cat-tribution Nyandux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your cat in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7844999",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Esteemed Decorator",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Create a Town Object",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7877670",
+    "pledgeMinimumMoney": "¥200,000",
+    "pledgeTitle": "Dig Your Own Grave Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "3 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Your Name on an In-Game Tombstone",
+      "Job Reward Set of your choice",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771104",
+    "pledgeMinimumMoney": "¥250,000",
+    "pledgeTitle": "Evil's Anvil",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "15 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Create an Enemy",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7845002",
+    "pledgeMinimumMoney": "¥300,000",
+    "pledgeTitle": "Chiseled Glory",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a statue In-Game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7771108",
+    "pledgeMinimumMoney": "¥350,000",
+    "pledgeTitle": "Alter Ego",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become an NPC in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7835779",
+    "pledgeMinimumMoney": "¥385,000",
+    "pledgeTitle": "Alter Ego Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "10 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become an NPC in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7845005",
+    "pledgeMinimumMoney": "¥400,000",
+    "pledgeTitle": "Fishment of Your Imagination",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a Rare Human-Faced Fish In-Game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7837164",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Alter Ego Re-redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "5 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become an NPC in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881856",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Cat-tribution 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your cat in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881859",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Pixel Pet 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your non-cat pet in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881861",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Fellow Worldbuilder 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Name a location in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881864",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Alter Ego 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become an NPC in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883432",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Cat-tribution 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your cat in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883433",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Pixel Pet 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Your non-cat pet in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883436",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Fellow Worldbuilder 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Name a location in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883437",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "Alter Ego 24 Hour Special",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become an NPC in the game",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7883440",
+    "pledgeMinimumMoney": "¥500,000",
+    "pledgeTitle": "You Only Live Twice Redux",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Be an NPC in Eiyuden Chronicle and its Sequel",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881866",
+    "pledgeMinimumMoney": "¥600,000",
+    "pledgeTitle": "Fishment Story",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "0 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Become a Rare Human-Faced Fish In-Game",
+      "Human-Faced Fish Plushy",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7881869",
+    "pledgeMinimumMoney": "¥750,000",
+    "pledgeTitle": "You Only Live Twice",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "1 backer",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Be an NPC in Eiyuden Chronicle and its Sequel",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  },
+  {
+    "rewardId": "7884544",
+    "pledgeMinimumMoney": "¥1,000,000",
+    "pledgeTitle": "You Only Live Twice - Final",
+    "pledgeLimitText": "Reward no longer available",
+    "numberOfBackers": "2 backers",
+    "limitedNumberOfBackersText": "",
+    "rewardNameTexts": [
+      "Physical Version of Eiyuden Chronicle",
+      "Sigil Button",
+      "CD Soundtrack",
+      "T-shirt",
+      "Vinyl Soundtrack",
+      "Artbook",
+      "Job Reward Set of your choice",
+      "Be an NPC in Eiyuden Chronicle and its Sequel",
+      "Special Animation Flourish for your NPC",
+      "Beta Access",
+      "Unique \"Noble\" Discord role"
+    ]
+  }
+]
