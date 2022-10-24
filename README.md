@@ -1,3 +1,3 @@
-# Fetch Kickstarter Pledes
+# Fetch Kickstarter Pledges
 
 ![プレッジリスト](/pledges.png)
