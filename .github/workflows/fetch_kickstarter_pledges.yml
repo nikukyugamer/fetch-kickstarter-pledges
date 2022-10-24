@@ -27,16 +27,17 @@ jobs:
     - name: ビルドする
       run: |
         yarn build
-    # - name: CLI の挙動を確認する
-    #   run: |
-    #     ./ks_pledges.js --version
-    #     ./ks_pledges.js --help
-    # - name: CLI を実行する
-    #   run: |
-    #     ./ks_pledges.js -b 65317 -p 2 -o output/ks_pledges_by_github_actions.csv
-    # - name: 生成された CSV ファイルなどをアーカイブする
-    #   uses: actions/upload-artifact@v3
-    #   with:
-    #     name: created-csv-file
-    #     path: |
-    #       output
+    - name: （未実装）CLI の挙動を確認する
+      run: |
+        echo '[実行例] ./ks_pledges.js --version'
+        echo '[実行例] ./ks_pledges.js --help'
+    - name: （未実装）CLI を実行する
+      run: |
+        echo '[実行例] ././ks_pledges.js --creator rabbitandbearstudios --project eiyuden-chronicle-hundred-heroes -o output/ks_pledges_by_github_actions.csv'
+        echo '[実行例] ././ks_pledges.js --creator doublekickstarter --project armed-fantasia-and-penny-blood -o output/ks_pledges_by_github_actions.csv'
+    - name: 生成された CSV ファイルなどをアーカイブする
+      uses: actions/upload-artifact@v3
+      with:
+        name: created-csv-file
+        path: |
+          output
