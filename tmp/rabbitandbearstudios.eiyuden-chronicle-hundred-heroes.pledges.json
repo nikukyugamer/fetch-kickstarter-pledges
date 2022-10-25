@@ -1,37 +1,37 @@
 [
   {
-    "rewardId": "7768062",
+    "pledgeId": "7768062",
     "pledgeMinimumMoney": "¥4,000",
     "pledgeTitle": "Digital Version",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "15,668 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
     ]
   },
   {
-    "rewardId": "7770924",
+    "pledgeId": "7770924",
     "pledgeMinimumMoney": "¥6,000",
     "pledgeTitle": "Physical Version",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "10,404 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
       "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
     ]
   },
   {
-    "rewardId": "7838192",
+    "pledgeId": "7838192",
     "pledgeMinimumMoney": "¥6,000",
     "pledgeTitle": "Digital and Digital OST",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3,088 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Digital Soundtrack",
       "Beta Access",
@@ -39,38 +39,38 @@
     ]
   },
   {
-    "rewardId": "7768065",
+    "pledgeId": "7768065",
     "pledgeMinimumMoney": "¥7,500",
     "pledgeTitle": "Digital Double Pack",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "687 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "2× Digital Version of Eiyuden Chronicle",
       "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
     ]
   },
   {
-    "rewardId": "7770977",
+    "pledgeId": "7770977",
     "pledgeMinimumMoney": "¥7,500",
     "pledgeTitle": "Badge of Honor",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "161 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Sigil Button",
       "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
     ]
   },
   {
-    "rewardId": "7838196",
+    "pledgeId": "7838196",
     "pledgeMinimumMoney": "¥7,500",
     "pledgeTitle": "Digital & Digital Artbook",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "459 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Digital Artbook",
       "Beta Access",
@@ -78,13 +78,13 @@
     ]
   },
   {
-    "rewardId": "7770967",
+    "pledgeId": "7770967",
     "pledgeMinimumMoney": "¥9,400",
     "pledgeTitle": "Digital & Physical",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "2,675 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -92,13 +92,13 @@
     ]
   },
   {
-    "rewardId": "7771029",
+    "pledgeId": "7771029",
     "pledgeMinimumMoney": "¥10,000",
     "pledgeTitle": "Mark of the Bard",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "2,534 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -107,13 +107,13 @@
     ]
   },
   {
-    "rewardId": "7838198",
+    "pledgeId": "7838198",
     "pledgeMinimumMoney": "¥10,000",
     "pledgeTitle": "Digital Deluxe",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1,117 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Digital Version of Eiyuden Chronicle",
       "Digital Soundtrack",
       "Digital Artbook",
@@ -122,26 +122,26 @@
     ]
   },
   {
-    "rewardId": "7770929",
+    "pledgeId": "7770929",
     "pledgeMinimumMoney": "¥11,000",
     "pledgeTitle": "Physical Double Pack",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "507 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "2× Physical Version of Eiyuden Chronicle",
       "2× Beta Access",
       "Unique \"Knight\", \"Ranger\", or \"Wizard\" Discord role"
     ]
   },
   {
-    "rewardId": "7771033",
+    "pledgeId": "7771033",
     "pledgeMinimumMoney": "¥15,000",
     "pledgeTitle": "Order of the Vermilion",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "459 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -151,13 +151,13 @@
     ]
   },
   {
-    "rewardId": "7771036",
+    "pledgeId": "7771036",
     "pledgeMinimumMoney": "¥15,000",
     "pledgeTitle": "Order of the Harmonious",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "624 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -167,13 +167,13 @@
     ]
   },
   {
-    "rewardId": "7771037",
+    "pledgeId": "7771037",
     "pledgeMinimumMoney": "¥15,000",
     "pledgeTitle": "Order of the Archivists",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3,975 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -183,13 +183,13 @@
     ]
   },
   {
-    "rewardId": "7846605",
+    "pledgeId": "7846605",
     "pledgeMinimumMoney": "¥22,000",
     "pledgeTitle": "Harmonious Squire Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "78 backers",
-    "limitedNumberOfBackersText": "Limited (26 left of 104)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (26 left of 104)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -200,13 +200,13 @@
     ]
   },
   {
-    "rewardId": "7771040",
+    "pledgeId": "7771040",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Trinity of Orders",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "731 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -218,13 +218,13 @@
     ]
   },
   {
-    "rewardId": "7843623",
+    "pledgeId": "7843623",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Vermilion Squire Re-redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "27 backers",
-    "limitedNumberOfBackersText": "Limited (77 left of 104)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (77 left of 104)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -235,13 +235,13 @@
     ]
   },
   {
-    "rewardId": "7854953",
+    "pledgeId": "7854953",
     "pledgeMinimumMoney": "¥27,500",
     "pledgeTitle": "Vermilion Knight Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "32 backers",
-    "limitedNumberOfBackersText": "Limited (73 left of 105)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (73 left of 105)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -252,13 +252,13 @@
     ]
   },
   {
-    "rewardId": "7771064",
+    "pledgeId": "7771064",
     "pledgeMinimumMoney": "¥37,500",
     "pledgeTitle": "Vermilion Noble",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "30 backers",
-    "limitedNumberOfBackersText": "Limited (70 left of 100)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (70 left of 100)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -269,13 +269,13 @@
     ]
   },
   {
-    "rewardId": "7771066",
+    "pledgeId": "7771066",
     "pledgeMinimumMoney": "¥37,500",
     "pledgeTitle": "Harmonious Noble",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "Limited (95 left of 100)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (95 left of 100)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "rewardId": "7848226",
+    "pledgeId": "7848226",
     "pledgeMinimumMoney": "¥38,000",
     "pledgeTitle": "Trinity Squire Re-redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "40 backers",
-    "limitedNumberOfBackersText": "Limited (64 left of 104)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (64 left of 104)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -305,13 +305,13 @@
     ]
   },
   {
-    "rewardId": "7843624",
+    "pledgeId": "7843624",
     "pledgeMinimumMoney": "¥40,000",
     "pledgeTitle": "Monument Returns",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "Limited (17 left of 20)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (17 left of 20)",
+    "rewardNames": [
       "12\" Hand-painted Resin-based Figure",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -319,13 +319,13 @@
     ]
   },
   {
-    "rewardId": "7867411",
+    "pledgeId": "7867411",
     "pledgeMinimumMoney": "¥40,000",
     "pledgeTitle": "Trinity Knight Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "29 backers",
-    "limitedNumberOfBackersText": "Limited (80 left of 109)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (80 left of 109)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -338,13 +338,13 @@
     ]
   },
   {
-    "rewardId": "7867414",
+    "pledgeId": "7867414",
     "pledgeMinimumMoney": "¥40,000",
     "pledgeTitle": "Trinity Knight Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "11 backers",
-    "limitedNumberOfBackersText": "Limited (98 left of 109)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (98 left of 109)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -357,13 +357,13 @@
     ]
   },
   {
-    "rewardId": "7875858",
+    "pledgeId": "7875858",
     "pledgeMinimumMoney": "¥41,000",
     "pledgeTitle": "Archivist Noble Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "Limited (99 left of 109)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (99 left of 109)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -374,13 +374,13 @@
     ]
   },
   {
-    "rewardId": "7771083",
+    "pledgeId": "7771083",
     "pledgeMinimumMoney": "¥50,000",
     "pledgeTitle": "Name of the Steadfast",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "121 backers",
-    "limitedNumberOfBackersText": "Limited (129 left of 250)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (129 left of 250)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -393,13 +393,13 @@
     ]
   },
   {
-    "rewardId": "7836427",
+    "pledgeId": "7836427",
     "pledgeMinimumMoney": "¥50,000",
     "pledgeTitle": "Silver Monument Re-redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "14 backers",
-    "limitedNumberOfBackersText": "Limited (1 left of 15)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (1 left of 15)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "2× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -407,13 +407,13 @@
     ]
   },
   {
-    "rewardId": "7875990",
+    "pledgeId": "7875990",
     "pledgeMinimumMoney": "¥50,000",
     "pledgeTitle": "Piece of History Returns",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (14 left of 15)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (14 left of 15)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "12\" Hand-painted Resin-based Figure",
@@ -422,13 +422,13 @@
     ]
   },
   {
-    "rewardId": "7870428",
+    "pledgeId": "7870428",
     "pledgeMinimumMoney": "¥52,500",
     "pledgeTitle": "Trinity Noble Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "19 backers",
-    "limitedNumberOfBackersText": "Limited (90 left of 109)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (90 left of 109)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -441,13 +441,13 @@
     ]
   },
   {
-    "rewardId": "7836425",
+    "pledgeId": "7836425",
     "pledgeMinimumMoney": "¥60,000",
     "pledgeTitle": "Silver Piece of History Re-redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "8 backers",
-    "limitedNumberOfBackersText": "Limited (7 left of 15)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (7 left of 15)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "2× 12\" Hand-painted Resin-based Figure",
@@ -456,13 +456,13 @@
     ]
   },
   {
-    "rewardId": "7882736",
+    "pledgeId": "7882736",
     "pledgeMinimumMoney": "¥60,000",
     "pledgeTitle": "Silver Monument Returns",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "Limited (15 left of 15)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (15 left of 15)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "2× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -470,13 +470,13 @@
     ]
   },
   {
-    "rewardId": "7835759",
+    "pledgeId": "7835759",
     "pledgeMinimumMoney": "¥68,700",
     "pledgeTitle": "Golden Piece of History Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "9 backers",
-    "limitedNumberOfBackersText": "Limited (1 left of 10)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (1 left of 10)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "3× 12\" Hand-painted Resin-based Figure",
@@ -485,13 +485,13 @@
     ]
   },
   {
-    "rewardId": "7771084",
+    "pledgeId": "7771084",
     "pledgeMinimumMoney": "¥75,000",
     "pledgeTitle": "Indelible Hand",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "72 backers",
-    "limitedNumberOfBackersText": "Limited (928 left of 1000)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (928 left of 1000)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -505,13 +505,13 @@
     ]
   },
   {
-    "rewardId": "7877668",
+    "pledgeId": "7877668",
     "pledgeMinimumMoney": "¥90,000",
     "pledgeTitle": "Golden Monument Final",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "Limited (20 left of 20)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (20 left of 20)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "3× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -519,13 +519,13 @@
     ]
   },
   {
-    "rewardId": "7842695",
+    "pledgeId": "7842695",
     "pledgeMinimumMoney": "¥95,000",
     "pledgeTitle": "Golden Piece of History Returns",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "8 backers",
-    "limitedNumberOfBackersText": "Limited (2 left of 10)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (2 left of 10)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "3× 12\" Hand-painted Resin-based Figure",
@@ -534,13 +534,13 @@
     ]
   },
   {
-    "rewardId": "7840388",
+    "pledgeId": "7840388",
     "pledgeMinimumMoney": "¥115,000",
     "pledgeTitle": "Enduring Requiem Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "8 backers",
-    "limitedNumberOfBackersText": "Limited (42 left of 50)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (42 left of 50)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -554,13 +554,13 @@
     ]
   },
   {
-    "rewardId": "7876681",
+    "pledgeId": "7876681",
     "pledgeMinimumMoney": "¥165,000",
     "pledgeTitle": "Food for Thought Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (2 left of 3)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (2 left of 3)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -574,13 +574,13 @@
     ]
   },
   {
-    "rewardId": "7855392",
+    "pledgeId": "7855392",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Top Trainer",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "Limited (2 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (2 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -594,13 +594,13 @@
     ]
   },
   {
-    "rewardId": "7865682",
+    "pledgeId": "7865682",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Hatch-It Job",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (4 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (4 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -614,13 +614,13 @@
     ]
   },
   {
-    "rewardId": "7855716",
+    "pledgeId": "7855716",
     "pledgeMinimumMoney": "¥225,000",
     "pledgeTitle": "Esteemed Decorator Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "Limited (2 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (2 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -634,13 +634,13 @@
     ]
   },
   {
-    "rewardId": "7865674",
+    "pledgeId": "7865674",
     "pledgeMinimumMoney": "¥225,000",
     "pledgeTitle": "Top Trainer Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (4 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (4 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -654,13 +654,13 @@
     ]
   },
   {
-    "rewardId": "7876621",
+    "pledgeId": "7876621",
     "pledgeMinimumMoney": "¥300,000",
     "pledgeTitle": "A Brush With Infamy",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (4 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (4 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -674,13 +674,13 @@
     ]
   },
   {
-    "rewardId": "7877671",
+    "pledgeId": "7877671",
     "pledgeMinimumMoney": "¥400,000",
     "pledgeTitle": "A Brush With Infamy Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "Limited (3 left of 3)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (3 left of 3)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -694,13 +694,13 @@
     ]
   },
   {
-    "rewardId": "7771111",
+    "pledgeId": "7771111",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Guildmaster",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "Limited (2 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (2 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -714,13 +714,13 @@
     ]
   },
   {
-    "rewardId": "7883443",
+    "pledgeId": "7883443",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Fishment Story Redux",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "Limited (1 left of 1)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (1 left of 1)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -735,13 +735,13 @@
     ]
   },
   {
-    "rewardId": "7771126",
+    "pledgeId": "7771126",
     "pledgeMinimumMoney": "¥750,000",
     "pledgeTitle": "Revered Guildmaster",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "Limited (4 left of 5)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (4 left of 5)",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -755,13 +755,13 @@
     ]
   },
   {
-    "rewardId": "7771132",
+    "pledgeId": "7771132",
     "pledgeMinimumMoney": "¥750,000",
     "pledgeTitle": "Allraan's Pantheon",
-    "pledgeLimitText": "",
+    "pledgeLimitNote": "",
     "numberOfBackers": "2 backers",
-    "limitedNumberOfBackersText": "Limited (8 left of 10)",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "Limited (8 left of 10)",
+    "rewardNames": [
       "Visit the Team",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -776,13 +776,13 @@
     ]
   },
   {
-    "rewardId": "7771041",
+    "pledgeId": "7771041",
     "pledgeMinimumMoney": "¥20,000",
     "pledgeTitle": "Vermilion Squire",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -793,13 +793,13 @@
     ]
   },
   {
-    "rewardId": "7771042",
+    "pledgeId": "7771042",
     "pledgeMinimumMoney": "¥20,000",
     "pledgeTitle": "Harmonious Squire",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -810,13 +810,13 @@
     ]
   },
   {
-    "rewardId": "7771043",
+    "pledgeId": "7771043",
     "pledgeMinimumMoney": "¥20,000",
     "pledgeTitle": "Archivist Squire",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -827,13 +827,13 @@
     ]
   },
   {
-    "rewardId": "7835654",
+    "pledgeId": "7835654",
     "pledgeMinimumMoney": "¥22,000",
     "pledgeTitle": "Archivist Squire Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -844,13 +844,13 @@
     ]
   },
   {
-    "rewardId": "7836438",
+    "pledgeId": "7836438",
     "pledgeMinimumMoney": "¥22,000",
     "pledgeTitle": "Vermilion Squire Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -861,13 +861,13 @@
     ]
   },
   {
-    "rewardId": "7771059",
+    "pledgeId": "7771059",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Vermilion Knight",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -878,13 +878,13 @@
     ]
   },
   {
-    "rewardId": "7771060",
+    "pledgeId": "7771060",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Harmonious Knight",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -895,13 +895,13 @@
     ]
   },
   {
-    "rewardId": "7771061",
+    "pledgeId": "7771061",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Archivist Knight",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -912,13 +912,13 @@
     ]
   },
   {
-    "rewardId": "7833800",
+    "pledgeId": "7833800",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Monument",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "12\" Hand-painted Resin-based Figure",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -926,13 +926,13 @@
     ]
   },
   {
-    "rewardId": "7836436",
+    "pledgeId": "7836436",
     "pledgeMinimumMoney": "¥25,000",
     "pledgeTitle": "Archivist Squire Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -943,13 +943,13 @@
     ]
   },
   {
-    "rewardId": "7835721",
+    "pledgeId": "7835721",
     "pledgeMinimumMoney": "¥27,000",
     "pledgeTitle": "Monument Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "12\" Hand-painted Resin-based Figure",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -957,13 +957,13 @@
     ]
   },
   {
-    "rewardId": "7835732",
+    "pledgeId": "7835732",
     "pledgeMinimumMoney": "¥27,000",
     "pledgeTitle": "Monument Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "12\" Hand-painted Resin-based Figure",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -971,13 +971,13 @@
     ]
   },
   {
-    "rewardId": "7836435",
+    "pledgeId": "7836435",
     "pledgeMinimumMoney": "¥27,500",
     "pledgeTitle": "Archivist Knight Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -988,13 +988,13 @@
     ]
   },
   {
-    "rewardId": "7771046",
+    "pledgeId": "7771046",
     "pledgeMinimumMoney": "¥30,000",
     "pledgeTitle": "Trinity Squire",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1007,13 +1007,13 @@
     ]
   },
   {
-    "rewardId": "7842696",
+    "pledgeId": "7842696",
     "pledgeMinimumMoney": "¥30,000",
     "pledgeTitle": "Archivist Squire Returns",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "104 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1024,13 +1024,13 @@
     ]
   },
   {
-    "rewardId": "7836434",
+    "pledgeId": "7836434",
     "pledgeMinimumMoney": "¥32,000",
     "pledgeTitle": "Monument Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "15 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "12\" Hand-painted Resin-based Figure",
       "Physical Version of Eiyuden Chronicle",
       "Beta Access",
@@ -1038,13 +1038,13 @@
     ]
   },
   {
-    "rewardId": "7848249",
+    "pledgeId": "7848249",
     "pledgeMinimumMoney": "¥32,000",
     "pledgeTitle": "Archivist Knight Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "104 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1055,13 +1055,13 @@
     ]
   },
   {
-    "rewardId": "7835733",
+    "pledgeId": "7835733",
     "pledgeMinimumMoney": "¥33,000",
     "pledgeTitle": "Trinity Squire Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1074,13 +1074,13 @@
     ]
   },
   {
-    "rewardId": "7833806",
+    "pledgeId": "7833806",
     "pledgeMinimumMoney": "¥35,000",
     "pledgeTitle": "Piece of History",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "12\" Hand-painted Resin-based Figure",
@@ -1089,13 +1089,13 @@
     ]
   },
   {
-    "rewardId": "7771062",
+    "pledgeId": "7771062",
     "pledgeMinimumMoney": "¥37,500",
     "pledgeTitle": "Trinity Knight",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1108,13 +1108,13 @@
     ]
   },
   {
-    "rewardId": "7771067",
+    "pledgeId": "7771067",
     "pledgeMinimumMoney": "¥37,500",
     "pledgeTitle": "Archivist Noble",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1125,13 +1125,13 @@
     ]
   },
   {
-    "rewardId": "7835736",
+    "pledgeId": "7835736",
     "pledgeMinimumMoney": "¥38,000",
     "pledgeTitle": "Piece of History Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "12\" Hand-painted Resin-based Figure",
@@ -1140,13 +1140,13 @@
     ]
   },
   {
-    "rewardId": "7833801",
+    "pledgeId": "7833801",
     "pledgeMinimumMoney": "¥40,000",
     "pledgeTitle": "Silver Monument",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "2× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1154,13 +1154,13 @@
     ]
   },
   {
-    "rewardId": "7836430",
+    "pledgeId": "7836430",
     "pledgeMinimumMoney": "¥42,500",
     "pledgeTitle": "Piece of History Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "15 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "12\" Hand-painted Resin-based Figure",
@@ -1169,13 +1169,13 @@
     ]
   },
   {
-    "rewardId": "7835738",
+    "pledgeId": "7835738",
     "pledgeMinimumMoney": "¥44,000",
     "pledgeTitle": "Silver Monument Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "2× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1183,13 +1183,13 @@
     ]
   },
   {
-    "rewardId": "7771070",
+    "pledgeId": "7771070",
     "pledgeMinimumMoney": "¥47,500",
     "pledgeTitle": "Trinity Noble",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1202,13 +1202,13 @@
     ]
   },
   {
-    "rewardId": "7833808",
+    "pledgeId": "7833808",
     "pledgeMinimumMoney": "¥50,000",
     "pledgeTitle": "Silver Piece of History",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "2× 12\" Hand-painted Resin-based Figure",
@@ -1217,13 +1217,13 @@
     ]
   },
   {
-    "rewardId": "7833802",
+    "pledgeId": "7833802",
     "pledgeMinimumMoney": "¥52,500",
     "pledgeTitle": "Golden Monument",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "3× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1231,13 +1231,13 @@
     ]
   },
   {
-    "rewardId": "7835755",
+    "pledgeId": "7835755",
     "pledgeMinimumMoney": "¥55,000",
     "pledgeTitle": "Silver Piece of History Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "2× 12\" Hand-painted Resin-based Figure",
@@ -1246,13 +1246,13 @@
     ]
   },
   {
-    "rewardId": "7835760",
+    "pledgeId": "7835760",
     "pledgeMinimumMoney": "¥57,700",
     "pledgeTitle": "Golden Monument Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "3× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1260,13 +1260,13 @@
     ]
   },
   {
-    "rewardId": "7833814",
+    "pledgeId": "7833814",
     "pledgeMinimumMoney": "¥62,500",
     "pledgeTitle": "Golden Piece of History",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "3× 12\" Hand-painted Resin-based Figure",
@@ -1275,13 +1275,13 @@
     ]
   },
   {
-    "rewardId": "7836419",
+    "pledgeId": "7836419",
     "pledgeMinimumMoney": "¥65,000",
     "pledgeTitle": "Golden Monument Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "15 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "3× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1289,13 +1289,13 @@
     ]
   },
   {
-    "rewardId": "7842694",
+    "pledgeId": "7842694",
     "pledgeMinimumMoney": "¥75,000",
     "pledgeTitle": "Golden Monument Returns",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "3× 12\" Hand-painted Resin-based Figure",
       "Beta Access",
@@ -1303,13 +1303,13 @@
     ]
   },
   {
-    "rewardId": "7836416",
+    "pledgeId": "7836416",
     "pledgeMinimumMoney": "¥80,000",
     "pledgeTitle": "Golden Piece of History Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "15 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Job Reward Set of your choice",
       "3× 12\" Hand-painted Resin-based Figure",
@@ -1318,13 +1318,13 @@
     ]
   },
   {
-    "rewardId": "7771087",
+    "pledgeId": "7771087",
     "pledgeMinimumMoney": "¥100,000",
     "pledgeTitle": "Enduring Requiem",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "100 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1338,13 +1338,13 @@
     ]
   },
   {
-    "rewardId": "7884606",
+    "pledgeId": "7884606",
     "pledgeMinimumMoney": "¥149,999",
     "pledgeTitle": "Murayama's Revenge",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1358,13 +1358,13 @@
     ]
   },
   {
-    "rewardId": "7771090",
+    "pledgeId": "7771090",
     "pledgeMinimumMoney": "¥150,000",
     "pledgeTitle": "Cat-tribution",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1378,13 +1378,13 @@
     ]
   },
   {
-    "rewardId": "7771091",
+    "pledgeId": "7771091",
     "pledgeMinimumMoney": "¥150,000",
     "pledgeTitle": "Pixel Pet",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1398,13 +1398,13 @@
     ]
   },
   {
-    "rewardId": "7844995",
+    "pledgeId": "7844995",
     "pledgeMinimumMoney": "¥150,000",
     "pledgeTitle": "Food for Thought",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1418,13 +1418,13 @@
     ]
   },
   {
-    "rewardId": "7876616",
+    "pledgeId": "7876616",
     "pledgeMinimumMoney": "¥150,000",
     "pledgeTitle": "Dig Your Own Grave",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1438,13 +1438,13 @@
     ]
   },
   {
-    "rewardId": "7835764",
+    "pledgeId": "7835764",
     "pledgeMinimumMoney": "¥165,000",
     "pledgeTitle": "Cat-tribution Meowdux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1458,13 +1458,13 @@
     ]
   },
   {
-    "rewardId": "7835655",
+    "pledgeId": "7835655",
     "pledgeMinimumMoney": "¥175,000",
     "pledgeTitle": "Pixel Pet Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1478,13 +1478,13 @@
     ]
   },
   {
-    "rewardId": "7771092",
+    "pledgeId": "7771092",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Fellow Worldbuilder",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1498,13 +1498,13 @@
     ]
   },
   {
-    "rewardId": "7836410",
+    "pledgeId": "7836410",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Pixel Pet Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1518,13 +1518,13 @@
     ]
   },
   {
-    "rewardId": "7836413",
+    "pledgeId": "7836413",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Copy of Cat-tribution Nyandux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1538,13 +1538,13 @@
     ]
   },
   {
-    "rewardId": "7844999",
+    "pledgeId": "7844999",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Esteemed Decorator",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1558,13 +1558,13 @@
     ]
   },
   {
-    "rewardId": "7877670",
+    "pledgeId": "7877670",
     "pledgeMinimumMoney": "¥200,000",
     "pledgeTitle": "Dig Your Own Grave Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "3 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1578,13 +1578,13 @@
     ]
   },
   {
-    "rewardId": "7771104",
+    "pledgeId": "7771104",
     "pledgeMinimumMoney": "¥250,000",
     "pledgeTitle": "Evil's Anvil",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "15 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1598,13 +1598,13 @@
     ]
   },
   {
-    "rewardId": "7845002",
+    "pledgeId": "7845002",
     "pledgeMinimumMoney": "¥300,000",
     "pledgeTitle": "Chiseled Glory",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1618,13 +1618,13 @@
     ]
   },
   {
-    "rewardId": "7771108",
+    "pledgeId": "7771108",
     "pledgeMinimumMoney": "¥350,000",
     "pledgeTitle": "Alter Ego",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1638,13 +1638,13 @@
     ]
   },
   {
-    "rewardId": "7835779",
+    "pledgeId": "7835779",
     "pledgeMinimumMoney": "¥385,000",
     "pledgeTitle": "Alter Ego Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "10 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1658,13 +1658,13 @@
     ]
   },
   {
-    "rewardId": "7845005",
+    "pledgeId": "7845005",
     "pledgeMinimumMoney": "¥400,000",
     "pledgeTitle": "Fishment of Your Imagination",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1678,13 +1678,13 @@
     ]
   },
   {
-    "rewardId": "7837164",
+    "pledgeId": "7837164",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Alter Ego Re-redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "5 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1698,13 +1698,13 @@
     ]
   },
   {
-    "rewardId": "7881856",
+    "pledgeId": "7881856",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Cat-tribution 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1718,13 +1718,13 @@
     ]
   },
   {
-    "rewardId": "7881859",
+    "pledgeId": "7881859",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Pixel Pet 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1738,13 +1738,13 @@
     ]
   },
   {
-    "rewardId": "7881861",
+    "pledgeId": "7881861",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Fellow Worldbuilder 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1758,13 +1758,13 @@
     ]
   },
   {
-    "rewardId": "7881864",
+    "pledgeId": "7881864",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Alter Ego 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1778,13 +1778,13 @@
     ]
   },
   {
-    "rewardId": "7883432",
+    "pledgeId": "7883432",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Cat-tribution 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1798,13 +1798,13 @@
     ]
   },
   {
-    "rewardId": "7883433",
+    "pledgeId": "7883433",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Pixel Pet 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1818,13 +1818,13 @@
     ]
   },
   {
-    "rewardId": "7883436",
+    "pledgeId": "7883436",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Fellow Worldbuilder 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1838,13 +1838,13 @@
     ]
   },
   {
-    "rewardId": "7883437",
+    "pledgeId": "7883437",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "Alter Ego 24 Hour Special",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1858,13 +1858,13 @@
     ]
   },
   {
-    "rewardId": "7883440",
+    "pledgeId": "7883440",
     "pledgeMinimumMoney": "¥500,000",
     "pledgeTitle": "You Only Live Twice Redux",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1878,13 +1878,13 @@
     ]
   },
   {
-    "rewardId": "7881866",
+    "pledgeId": "7881866",
     "pledgeMinimumMoney": "¥600,000",
     "pledgeTitle": "Fishment Story",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "0 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1899,13 +1899,13 @@
     ]
   },
   {
-    "rewardId": "7881869",
+    "pledgeId": "7881869",
     "pledgeMinimumMoney": "¥750,000",
     "pledgeTitle": "You Only Live Twice",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "1 backer",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
@@ -1919,13 +1919,13 @@
     ]
   },
   {
-    "rewardId": "7884544",
+    "pledgeId": "7884544",
     "pledgeMinimumMoney": "¥1,000,000",
     "pledgeTitle": "You Only Live Twice - Final",
-    "pledgeLimitText": "Reward no longer available",
+    "pledgeLimitNote": "Reward no longer available",
     "numberOfBackers": "2 backers",
-    "limitedNumberOfBackersText": "",
-    "rewardNameTexts": [
+    "limitedNumberOfBackersNote": "",
+    "rewardNames": [
       "Physical Version of Eiyuden Chronicle",
       "Sigil Button",
       "CD Soundtrack",
