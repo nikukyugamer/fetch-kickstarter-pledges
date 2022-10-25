@@ -15,7 +15,8 @@ export class FetchKickstarterPledges {
     const page = await browser.newPage()
     const baseUrl = 'https://www.kickstarter.com/projects/'
     const urlPath = `${this.creator}/${this.project}`
-    const url = `${baseUrl}${urlPath}/description`
+    const suffix = 'description'
+    const url = `${baseUrl}${urlPath}/${suffix}`
 
     await page.goto(url)
 
@@ -29,8 +30,8 @@ export class FetchKickstarterPledges {
     const pledgesData: any = []
 
     for (let pledgeIndex = 0; pledgeIndex < countOfPledges; pledgeIndex++) {
-      // rewardId プロパティ
-      const rewardId = await pledges
+      // pledgeId プロパティ（タグ上は `data-reward-id` であるが実質は pledgeId である）
+      const pledgeId = await pledges
         .nth(pledgeIndex)
         .getAttribute('data-reward-id')
 
@@ -49,7 +50,7 @@ export class FetchKickstarterPledges {
         .innerText()
 
       // rewardNames プロパティ
-      const rewardNames = await pledges
+      const rewards = await pledges
         .nth(pledgeIndex)
         .locator('.pledge__info')
         .locator('.pledge__reward-description')
@@ -57,14 +58,14 @@ export class FetchKickstarterPledges {
         .locator('li.list-disc')
 
       // pledges プロパティ
-      const countOfRewards = await rewardNames.count()
-      let rewardNameTexts = []
+      const countOfRewards = await rewards.count()
+      let rewardNames = []
 
       for (let index = 0; index < countOfRewards; index++) {
-        const element = await rewardNames.nth(index)
+        const element = await rewards.nth(index)
         const innerText = await element.innerText()
 
-        rewardNameTexts.push(innerText)
+        rewardNames.push(innerText)
       }
 
       // pledgeLimitText プロパティ
@@ -73,7 +74,7 @@ export class FetchKickstarterPledges {
         .nth(pledgeIndex)
         .locator('.pledge__info')
         .locator('.pledge__limit') // 「このリワードは選択できません」
-      let pledgeLimitText = ''
+      let pledgeLimitNote = ''
 
       // メモリリークの可能性がある？
       // https://github.com/puppeteer/puppeteer/issues/1149#issuecomment-782232360
@@ -81,9 +82,9 @@ export class FetchKickstarterPledges {
         // await page.waitForSelector(pledgeLimitLocator, { timeout: 5000 })
         await pledgeLimitLocator.waitFor({ timeout: 1000 })
 
-        pledgeLimitText = await pledgeLimitLocator.innerText()
+        pledgeLimitNote = await pledgeLimitLocator.innerText()
       } catch (error) {
-        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / rewardId: ${rewardId}`)
+        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / pledgeId: ${pledgeId}`)
         console.log(`[LOG] pledgeLimitLocator: ${error}`)
       }
 
@@ -96,7 +97,7 @@ export class FetchKickstarterPledges {
         .locator('.bg-support-100') // 「数量限定（限定104個中 残り26個）」
         .innerText()
 
-      // limitedNumberOfBackersText プロパティ
+      // limitedNumberOfBackersNote プロパティ
       // この要素は存在しないことがある
       const limitedNumberOfBackersLocator = await pledges
         .nth(pledgeIndex)
@@ -105,27 +106,27 @@ export class FetchKickstarterPledges {
         .locator('.mr1.mb1')
         .nth(1)
         .locator('.bg-celebrate-100')
-      let limitedNumberOfBackersText = ''
+      let limitedNumberOfBackersNote = ''
 
       try {
         await limitedNumberOfBackersLocator.waitFor({ timeout: 1000 })
 
-        limitedNumberOfBackersText =
+        limitedNumberOfBackersNote =
           await limitedNumberOfBackersLocator.innerText()
       } catch (error) {
-        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / rewardId: ${rewardId}`)
+        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / pledgeId: ${pledgeId}`)
         console.log(`[LOG] limitedNumberOfBackersLocator: ${error}`)
       }
 
       // オブジェクトに格納して配列に詰め込む
       pledgesData.push({
-        rewardId,
+        pledgeId,
         pledgeMinimumMoney,
         pledgeTitle,
-        pledgeLimitText,
+        pledgeLimitNote,
         numberOfBackers,
-        limitedNumberOfBackersText,
-        rewardNameTexts,
+        limitedNumberOfBackersNote,
+        rewardNames,
       })
     }
 
