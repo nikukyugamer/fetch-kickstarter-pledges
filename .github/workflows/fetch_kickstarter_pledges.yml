@@ -8,15 +8,12 @@ jobs:
   build:
     name: ビルド ～ 実行 のテスト
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [18.x]
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js (.node-version)
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: .node-version
         cache: yarn
     - name: $ yarn install
       run: |
