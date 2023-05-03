@@ -5,6 +5,10 @@
   - クリエイター名は `rabbitandbearstudios`
   - プロジェクト名は `eiyuden-chronicle-hundred-heroes`
 
+- https://www.kickstarter.com/projects/noacat/elin
+  - クリエイター名は `noacat`
+  - プロジェクト名は `elin`
+
 ## 実行方法
 
 ```bash
@@ -17,7 +21,7 @@ $ ts-node app.ts rabbitandbearstudios eiyuden-chronicle-hundred-heroes /path/to/
 ```
 
 ```bash
-$ cat tmp/pledges.json
+$ cat /path/to/result.json
 ```
 
 ## 対象場所のスクリーンショット

@@ -36,6 +36,7 @@ export class FetchKickstarterPledges {
         .getAttribute('data-reward-id')
 
       // 「リワードなしでプレッジ」の場合は pledgeId が 0 になる
+      // https://github.com/nikukyugamer/fetch-kickstarter-pledges/issues/20
       if (pledgeId === '0') continue
 
       // pledgeMinimumMoney プロパティ
