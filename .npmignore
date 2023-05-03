@@ -2,7 +2,6 @@
 .history/
 .vscode/
 @types/
-output/
 tmp/
 .eslintignore
 .eslintrc.js

@@ -84,8 +84,9 @@ export class FetchKickstarterPledges {
 
         pledgeLimitNote = await pledgeLimitLocator.innerText()
       } catch (error) {
-        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / pledgeId: ${pledgeId}`)
-        console.log(`[LOG] pledgeLimitLocator: ${error}`)
+        console.log(
+          `[LOG] pledgeId: ${pledgeId}: pledgeLimitLocator is nothing.`
+        )
       }
 
       // numberOfBackers プロパティ
@@ -114,8 +115,9 @@ export class FetchKickstarterPledges {
         limitedNumberOfBackersNote =
           await limitedNumberOfBackersLocator.innerText()
       } catch (error) {
-        console.log(`[LOG] pledgeTitle: ${pledgeTitle} / pledgeId: ${pledgeId}`)
-        console.log(`[LOG] limitedNumberOfBackersLocator: ${error}`)
+        console.log(
+          `[LOG] pledgeId: ${pledgeId}: limitedNumberOfBackersLocator is nothing.`
+        )
       }
 
       // オブジェクトに格納して配列に詰め込む
@@ -128,6 +130,8 @@ export class FetchKickstarterPledges {
         limitedNumberOfBackersNote,
         rewardNames,
       })
+
+      console.log(`[LOG] pledgeId: ${pledgeId}: "${pledgeTitle}" is done.`)
     }
 
     await browser.close()
