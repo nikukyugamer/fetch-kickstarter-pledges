@@ -20,7 +20,7 @@ async function main() {
   const outputFilepath = process.argv[4] || './tmp/pledges.json'
   fs.writeFileSync(outputFilepath, JSON.stringify(pledgesData, null, 2))
 
-  console.log('[LOG] Done:')
+  console.log('[LOG] Output is done.')
   console.log(`Output: ${outputFilepath}`)
   console.log(`Creator: ${firstCliArgv}, Project: ${secondCliArgv}`)
   console.log(
