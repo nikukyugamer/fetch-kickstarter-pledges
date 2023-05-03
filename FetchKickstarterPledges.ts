@@ -35,6 +35,9 @@ export class FetchKickstarterPledges {
         .nth(pledgeIndex)
         .getAttribute('data-reward-id')
 
+      // 「リワードなしでプレッジ」の場合は pledgeId が 0 になる
+      if (pledgeId === '0') continue
+
       // pledgeMinimumMoney プロパティ
       const pledgeMinimumMoney = await pledges
         .nth(pledgeIndex)
