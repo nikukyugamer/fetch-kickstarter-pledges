@@ -7,9 +7,6 @@ tmp/*
 .env
 .env.test
 
-output/*
-!output/.keep
-
 # GitHub デフォルト項目
 logs
 *.log
