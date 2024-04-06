@@ -21,7 +21,7 @@ jobs:
         yarn install --frozen-lockfile
     - name: ESLint
       run: |
-        npx eslint
+        npx eslint --no-config-lookup --debug
     - name: ビルドする
       run: |
         yarn build
