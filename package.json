@@ -11,7 +11,7 @@
     "playwright": ">=1.27.1"
   },
   "devDependencies": {
-    "@types/node": "20.16.12",
+    "@types/node": "20.16.13",
     "eslint": "9.13.0",
     "eslint-config-next": "14.2.15",
     "eslint-config-prettier": "9.1.0",
