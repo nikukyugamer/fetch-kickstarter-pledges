@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: $ git clone する
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Node.js のセットアップを行う
       uses: actions/setup-node@v4
       with:
