@@ -34,7 +34,7 @@ jobs:
         echo '[実行例] ././ks_pledges.js --creator rabbitandbearstudios --project eiyuden-chronicle-hundred-heroes -o output/ks_pledges_by_github_actions.csv'
         echo '[実行例] ././ks_pledges.js --creator doublekickstarter --project armed-fantasia-and-penny-blood -o output/ks_pledges_by_github_actions.csv'
     - name: 生成された CSV ファイルなどをアーカイブする
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: created-csv-file
         path: |
